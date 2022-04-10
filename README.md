@@ -1,7 +1,7 @@
 General Infos
 =========
 
-> :warning: **Old Project**: No longer suported, but some part will be reused in the `quantTools` project
+> :warning: **Old Project**: No longer suported, but some parts will be reused in the `quantTools` project
 
 Attempt to make the most polyvalent backtester possible, for all markets while staying accurate, easy to use and minimizing computing time as well as the necessary programming on the user side.
 
